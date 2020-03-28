@@ -6,7 +6,7 @@ import (
 	"github.com/apache/thrift/lib/go/thrift"
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/reddit/baseplate.go/tracing"
+	"github.com/fizx/baseplate.go/tracing"
 )
 
 // MonitoredClient implements the thrift.TClient interface and can be used to

@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/reddit/baseplate.go/log"
+	"github.com/fizx/baseplate.go/log"
 
 	"github.com/go-kit/kit/metrics"
 	"github.com/go-kit/kit/metrics/influxstatsd"

@@ -8,7 +8,7 @@ go_library(
         "millisecond.go",
         "second_f.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/timebp",
+    importpath = "github.com/fizx/baseplate.go/timebp",
     visibility = ["//visibility:public"],
 )
 

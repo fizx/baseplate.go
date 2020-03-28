@@ -6,7 +6,7 @@ go_library(
         "doc.go",
         "filewatcher.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/filewatcher",
+    importpath = "github.com/fizx/baseplate.go/filewatcher",
     visibility = ["//visibility:public"],
     deps = [
         "//log:go_default_library",

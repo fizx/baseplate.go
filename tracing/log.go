@@ -3,7 +3,7 @@ package tracing
 import (
 	"testing"
 
-	"github.com/reddit/baseplate.go/log"
+	"github.com/fizx/baseplate.go/log"
 )
 
 // TestWrapper is a log.Wrapper implementation can be used in tests.

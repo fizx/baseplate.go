@@ -6,9 +6,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/reddit/baseplate.go/edgecontext"
-	"github.com/reddit/baseplate.go/log"
-	"github.com/reddit/baseplate.go/secrets"
+	"github.com/fizx/baseplate.go/edgecontext"
+	"github.com/fizx/baseplate.go/log"
+	"github.com/fizx/baseplate.go/secrets"
 )
 
 // pubkey copied from https://github.com/reddit/baseplate.py/blob/db9c1d7cddb1cb242546349e821cad0b0cbd6fce/tests/__init__.py#L12

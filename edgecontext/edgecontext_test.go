@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/reddit/baseplate.go/edgecontext"
-	"github.com/reddit/baseplate.go/httpbp"
-	"github.com/reddit/baseplate.go/thriftbp"
+	"github.com/fizx/baseplate.go/edgecontext"
+	"github.com/fizx/baseplate.go/httpbp"
+	"github.com/fizx/baseplate.go/thriftbp"
 
 	"github.com/apache/thrift/lib/go/thrift"
 )

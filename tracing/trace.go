@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/reddit/baseplate.go/timebp"
+	"github.com/fizx/baseplate.go/timebp"
 )
 
 // FlagMask values.

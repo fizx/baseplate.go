@@ -9,9 +9,9 @@ import (
 	"github.com/apache/thrift/lib/go/thrift"
 	"github.com/go-kit/kit/metrics"
 
-	"github.com/reddit/baseplate.go/clientpool"
-	"github.com/reddit/baseplate.go/log"
-	"github.com/reddit/baseplate.go/metricsbp"
+	"github.com/fizx/baseplate.go/clientpool"
+	"github.com/fizx/baseplate.go/log"
+	"github.com/fizx/baseplate.go/metricsbp"
 )
 
 // DefaultPoolGaugeInterval is the fallback value to be used when

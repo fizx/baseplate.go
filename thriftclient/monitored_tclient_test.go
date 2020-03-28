@@ -10,9 +10,9 @@ import (
 	"github.com/apache/thrift/lib/go/thrift"
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/reddit/baseplate.go/mqsend"
-	"github.com/reddit/baseplate.go/thriftclient"
-	"github.com/reddit/baseplate.go/tracing"
+	"github.com/fizx/baseplate.go/mqsend"
+	"github.com/fizx/baseplate.go/thriftclient"
+	"github.com/fizx/baseplate.go/tracing"
 )
 
 const (

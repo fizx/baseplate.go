@@ -3,7 +3,7 @@ package set_test
 import (
 	"testing"
 
-	"github.com/reddit/baseplate.go/set"
+	"github.com/fizx/baseplate.go/set"
 )
 
 func TestStringSet(t *testing.T) {

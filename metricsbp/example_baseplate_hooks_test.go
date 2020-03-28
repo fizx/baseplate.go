@@ -1,8 +1,8 @@
 package metricsbp_test
 
 import (
-	"github.com/reddit/baseplate.go/metricsbp"
-	"github.com/reddit/baseplate.go/tracing"
+	"github.com/fizx/baseplate.go/metricsbp"
+	"github.com/fizx/baseplate.go/tracing"
 )
 
 // This example demonstrates how to use CreateServerSpanHook.

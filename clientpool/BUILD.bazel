@@ -8,7 +8,7 @@ go_library(
         "errors.go",
         "interface.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/clientpool",
+    importpath = "github.com/fizx/baseplate.go/clientpool",
     visibility = ["//visibility:public"],
 )
 

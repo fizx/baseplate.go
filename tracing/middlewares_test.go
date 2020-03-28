@@ -9,10 +9,10 @@ import (
 
 	"github.com/apache/thrift/lib/go/thrift"
 
-	"github.com/reddit/baseplate.go/httpbp"
-	"github.com/reddit/baseplate.go/mqsend"
-	"github.com/reddit/baseplate.go/thriftbp"
-	"github.com/reddit/baseplate.go/tracing"
+	"github.com/fizx/baseplate.go/httpbp"
+	"github.com/fizx/baseplate.go/mqsend"
+	"github.com/fizx/baseplate.go/thriftbp"
+	"github.com/fizx/baseplate.go/tracing"
 )
 
 const testTimeout = time.Millisecond * 100

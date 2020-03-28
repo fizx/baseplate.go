@@ -8,7 +8,7 @@ go_library(
         "v1.go",
         "versions.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/signing",
+    importpath = "github.com/fizx/baseplate.go/signing",
     visibility = ["//visibility:public"],
     deps = ["//secrets:go_default_library"],
 )

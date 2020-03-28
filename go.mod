@@ -28,7 +28,7 @@ require (
 	// github.com/go-redis/redis/v7 v7.0.0-beta.6
 	// github.com/gomodule/redigo v2.0.0+incompatible // indirect
 	// github.com/pkg/errors v0.9.1 // indirect
-	// github.com/reddit/baseplate.go v0.0.0-20200319161135-ee15a9795136
+	// github.com/fizx/baseplate.go v0.0.0-20200319161135-ee15a9795136
 	// github.com/yuin/gopher-lua v0.0.0-20191220021717-ab39c6098bdb // indirect
 	// gopkg.in/yaml.v2 v2.2.8
 )

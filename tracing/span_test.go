@@ -8,7 +8,7 @@ import (
 
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/reddit/baseplate.go/randbp"
+	"github.com/fizx/baseplate.go/randbp"
 )
 
 func TestDebugFlag(t *testing.T) {

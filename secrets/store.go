@@ -4,8 +4,8 @@ import (
 	"context"
 	"io"
 
-	"github.com/reddit/baseplate.go/filewatcher"
-	"github.com/reddit/baseplate.go/log"
+	"github.com/fizx/baseplate.go/filewatcher"
+	"github.com/fizx/baseplate.go/log"
 )
 
 type (

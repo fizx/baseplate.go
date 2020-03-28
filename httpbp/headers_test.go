@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/reddit/baseplate.go/httpbp"
+	"github.com/fizx/baseplate.go/httpbp"
 )
 
 const (

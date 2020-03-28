@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/reddit/baseplate.go/metricsbp"
+	"github.com/fizx/baseplate.go/metricsbp"
 )
 
 func TestGlobalStatsd(t *testing.T) {

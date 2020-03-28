@@ -5,7 +5,7 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/reddit/baseplate.go/clientpool"
+	"github.com/fizx/baseplate.go/clientpool"
 )
 
 func TestChannelPoolInvalidConfig(t *testing.T) {

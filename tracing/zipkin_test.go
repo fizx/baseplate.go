@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/reddit/baseplate.go/timebp"
-	"github.com/reddit/baseplate.go/tracing"
+	"github.com/fizx/baseplate.go/timebp"
+	"github.com/fizx/baseplate.go/tracing"
 )
 
 // Note that this test only tests our zipkin json encoding implementation is

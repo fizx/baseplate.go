@@ -9,7 +9,7 @@ import (
 
 	"github.com/go-kit/kit/endpoint"
 	httpgk "github.com/go-kit/kit/transport/http"
-	"github.com/reddit/baseplate.go/httpbp"
+	"github.com/fizx/baseplate.go/httpbp"
 )
 
 // ExampleResponse is an example response that implements the ErrorResponse

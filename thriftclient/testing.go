@@ -6,7 +6,7 @@ import (
 
 	"github.com/apache/thrift/lib/go/thrift"
 
-	"github.com/reddit/baseplate.go/clientpool"
+	"github.com/fizx/baseplate.go/clientpool"
 )
 
 // MockCall is a mock function that can be registered to a method in a MockClient

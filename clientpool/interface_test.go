@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/reddit/baseplate.go/clientpool"
+	"github.com/fizx/baseplate.go/clientpool"
 )
 
 type testClient struct {

@@ -7,8 +7,8 @@ import (
 	"github.com/go-redis/redis/v7"
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/reddit/baseplate.go/redisbp"
-	"github.com/reddit/baseplate.go/tracing"
+	"github.com/fizx/baseplate.go/redisbp"
+	"github.com/fizx/baseplate.go/tracing"
 )
 
 func TestSpanHook(t *testing.T) {

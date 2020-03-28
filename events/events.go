@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/reddit/baseplate.go/mqsend"
+	"github.com/fizx/baseplate.go/mqsend"
 
 	"github.com/apache/thrift/lib/go/thrift"
 )

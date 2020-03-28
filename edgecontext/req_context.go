@@ -6,10 +6,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/reddit/baseplate.go/httpbp"
-	"github.com/reddit/baseplate.go/log"
-	"github.com/reddit/baseplate.go/set"
-	"github.com/reddit/baseplate.go/thriftbp"
+	"github.com/fizx/baseplate.go/httpbp"
+	"github.com/fizx/baseplate.go/log"
+	"github.com/fizx/baseplate.go/set"
+	"github.com/fizx/baseplate.go/thriftbp"
 
 	"github.com/apache/thrift/lib/go/thrift"
 )

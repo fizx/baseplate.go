@@ -3,7 +3,7 @@ package metricsbp
 import (
 	"fmt"
 
-	"github.com/reddit/baseplate.go/tracing"
+	"github.com/fizx/baseplate.go/tracing"
 )
 
 const (

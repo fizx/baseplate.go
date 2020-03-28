@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/reddit/baseplate.go/metricsbp"
+	"github.com/fizx/baseplate.go/metricsbp"
 )
 
 type inner struct {

@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/reddit/baseplate.go/timebp"
+	"github.com/fizx/baseplate.go/timebp"
 )
 
 var simpleConfig = &ExperimentConfig{

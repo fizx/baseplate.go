@@ -7,7 +7,7 @@ go_library(
         "headers.go",
         "merger.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/thriftbp",
+    importpath = "github.com/fizx/baseplate.go/thriftbp",
     visibility = ["//visibility:public"],
     deps = ["@com_github_apache_thrift//lib/go/thrift:go_default_library"],
 )

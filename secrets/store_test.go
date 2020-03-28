@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/reddit/baseplate.go/log"
-	"github.com/reddit/baseplate.go/secrets"
+	"github.com/fizx/baseplate.go/log"
+	"github.com/fizx/baseplate.go/secrets"
 )
 
 const specificationExample = `

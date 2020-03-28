@@ -3,7 +3,7 @@ package clientpool_test
 import (
 	"testing"
 
-	"github.com/reddit/baseplate.go/clientpool"
+	"github.com/fizx/baseplate.go/clientpool"
 )
 
 func BenchmarkPoolGetRelease(b *testing.B) {

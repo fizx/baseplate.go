@@ -7,7 +7,7 @@ go_library(
         "doc.go",
         "ip.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/runtimebp",
+    importpath = "github.com/fizx/baseplate.go/runtimebp",
     visibility = ["//visibility:public"],
 )
 

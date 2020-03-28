@@ -6,7 +6,7 @@ go_library(
         "batch.go",
         "doc.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/batcherror",
+    importpath = "github.com/fizx/baseplate.go/batcherror",
     visibility = ["//visibility:public"],
 )
 

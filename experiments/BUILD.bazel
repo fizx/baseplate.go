@@ -7,7 +7,7 @@ go_library(
         "targeting.go",
         "variants.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/experiments",
+    importpath = "github.com/fizx/baseplate.go/experiments",
     visibility = ["//visibility:public"],
     deps = [
         "//filewatcher:go_default_library",

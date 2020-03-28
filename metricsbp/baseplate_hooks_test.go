@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/reddit/baseplate.go/metricsbp"
-	"github.com/reddit/baseplate.go/tracing"
+	"github.com/fizx/baseplate.go/metricsbp"
+	"github.com/fizx/baseplate.go/tracing"
 )
 
 func runSpan(st *metricsbp.Statsd, spanErr error) (counter string, successCounter string, histogram string, err error) {

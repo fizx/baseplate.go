@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/reddit/baseplate.go/filewatcher"
-	"github.com/reddit/baseplate.go/log"
+	"github.com/fizx/baseplate.go/filewatcher"
+	"github.com/fizx/baseplate.go/log"
 )
 
 func parser(f io.Reader) (interface{}, error) {

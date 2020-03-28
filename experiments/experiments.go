@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/reddit/baseplate.go/filewatcher"
-	"github.com/reddit/baseplate.go/log"
-	"github.com/reddit/baseplate.go/timebp"
+	"github.com/fizx/baseplate.go/filewatcher"
+	"github.com/fizx/baseplate.go/log"
+	"github.com/fizx/baseplate.go/timebp"
 )
 
 const targetAllOverride = `{"OVERRIDE": true}`

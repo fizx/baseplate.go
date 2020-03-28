@@ -9,7 +9,7 @@ go_library(
         "log.go",
         "wrapper.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/log",
+    importpath = "github.com/fizx/baseplate.go/log",
     visibility = ["//visibility:public"],
     deps = [
         "@com_github_getsentry_raven_go//:go_default_library",

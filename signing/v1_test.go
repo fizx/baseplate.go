@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/reddit/baseplate.go/secrets"
+	"github.com/fizx/baseplate.go/secrets"
 )
 
 type verifyFunc func(message []byte, signature string, keys ...secrets.Secret) error

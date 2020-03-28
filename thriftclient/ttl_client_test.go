@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/reddit/baseplate.go/thriftclient"
+	"github.com/fizx/baseplate.go/thriftclient"
 
 	"github.com/apache/thrift/lib/go/thrift"
 )

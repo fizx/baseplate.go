@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/reddit/baseplate.go/mqsend"
+	"github.com/fizx/baseplate.go/mqsend"
 )
 
 func TestLinuxMessageQueue(t *testing.T) {

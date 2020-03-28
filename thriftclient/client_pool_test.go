@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/reddit/baseplate.go/clientpool"
-	"github.com/reddit/baseplate.go/thriftclient"
+	"github.com/fizx/baseplate.go/clientpool"
+	"github.com/fizx/baseplate.go/thriftclient"
 )
 
 const (

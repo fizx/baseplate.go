@@ -8,7 +8,7 @@ import (
 	"testing/quick"
 	"time"
 
-	"github.com/reddit/baseplate.go/timebp"
+	"github.com/fizx/baseplate.go/timebp"
 )
 
 type jsonTestTypeMicrosecond struct {

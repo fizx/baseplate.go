@@ -18,7 +18,7 @@ go_library(
         "tracer.go",
         "zipkin.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/tracing",
+    importpath = "github.com/fizx/baseplate.go/tracing",
     visibility = ["//visibility:public"],
     deps = [
         "//httpbp:go_default_library",

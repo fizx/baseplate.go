@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/reddit/baseplate.go/batcherror"
+	"github.com/fizx/baseplate.go/batcherror"
 )
 
 func TestAdd(t *testing.T) {

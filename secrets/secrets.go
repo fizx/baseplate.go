@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/reddit/baseplate.go/batcherror"
+	"github.com/fizx/baseplate.go/batcherror"
 )
 
 const (

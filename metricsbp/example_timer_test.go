@@ -3,7 +3,7 @@ package metricsbp_test
 import (
 	"context"
 
-	"github.com/reddit/baseplate.go/metricsbp"
+	"github.com/fizx/baseplate.go/metricsbp"
 )
 
 // This example demonstrates how to use Timer.

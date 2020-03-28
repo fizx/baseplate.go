@@ -8,7 +8,7 @@ import (
 
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/reddit/baseplate.go/tracing"
+	"github.com/fizx/baseplate.go/tracing"
 )
 
 type CallContainer struct {

@@ -14,7 +14,7 @@
 //     $ go test -bench . -benchmem
 //     goos: darwin
 //     goarch: amd64
-//     pkg: github.com/reddit/baseplate.go/metricsbp
+//     pkg: github.com/fizx/baseplate.go/metricsbp
 //     BenchmarkStatsd/pre-create/histogram-8         	 8583646	       124 ns/op	      44 B/op	       0 allocs/op
 //     BenchmarkStatsd/pre-create/timing-8            	10221859	       120 ns/op	      47 B/op	       0 allocs/op
 //     BenchmarkStatsd/pre-create/counter-8           	10205341	       120 ns/op	      47 B/op	       0 allocs/op
@@ -28,5 +28,5 @@
 //     BenchmarkStatsd/on-the-fly-with-labels/counter-8           	 2600418	       457 ns/op	     193 B/op	       4 allocs/op
 //     BenchmarkStatsd/on-the-fly-with-labels/gauge-8             	 3429901	       339 ns/op	     112 B/op	       3 allocs/op
 //     PASS
-//     ok  	github.com/reddit/baseplate.go/metricsbp	18.675s
+//     ok  	github.com/fizx/baseplate.go/metricsbp	18.675s
 package metricsbp

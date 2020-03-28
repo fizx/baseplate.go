@@ -4,7 +4,7 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/reddit/baseplate.go/randbp"
+	"github.com/fizx/baseplate.go/randbp"
 )
 
 func TestShouldSampleWithRate(t *testing.T) {

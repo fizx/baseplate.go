@@ -7,8 +7,8 @@ import (
 	"github.com/go-redis/redis/v7"
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/reddit/baseplate.go/batcherror"
-	"github.com/reddit/baseplate.go/tracing"
+	"github.com/fizx/baseplate.go/batcherror"
+	"github.com/fizx/baseplate.go/tracing"
 )
 
 // SpanHook is a redis.Hook for wrapping Redis commands and pipelines

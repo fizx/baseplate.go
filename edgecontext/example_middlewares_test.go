@@ -6,9 +6,9 @@ import (
 	"github.com/go-kit/kit/endpoint"
 	httpgk "github.com/go-kit/kit/transport/http"
 
-	"github.com/reddit/baseplate.go/edgecontext"
-	"github.com/reddit/baseplate.go/httpbp"
-	"github.com/reddit/baseplate.go/log"
+	"github.com/fizx/baseplate.go/edgecontext"
+	"github.com/fizx/baseplate.go/httpbp"
+	"github.com/fizx/baseplate.go/log"
 )
 
 // This example shows how to use the InjectHTTPEdgeContext middleware in a

@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/reddit/baseplate.go/thriftclient"
+	"github.com/fizx/baseplate.go/thriftclient"
 )
 
 // In real code these should be coming from either config file or flags instead.

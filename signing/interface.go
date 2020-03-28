@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/reddit/baseplate.go/secrets"
+	"github.com/fizx/baseplate.go/secrets"
 )
 
 // The Version of the signing protocol.

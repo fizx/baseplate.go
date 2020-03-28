@@ -10,10 +10,10 @@ import (
 
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/reddit/baseplate.go/log"
-	"github.com/reddit/baseplate.go/mqsend"
-	"github.com/reddit/baseplate.go/randbp"
-	"github.com/reddit/baseplate.go/runtimebp"
+	"github.com/fizx/baseplate.go/log"
+	"github.com/fizx/baseplate.go/mqsend"
+	"github.com/fizx/baseplate.go/randbp"
+	"github.com/fizx/baseplate.go/runtimebp"
 )
 
 var (

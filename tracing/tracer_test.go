@@ -8,8 +8,8 @@ import (
 
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/reddit/baseplate.go/log"
-	"github.com/reddit/baseplate.go/mqsend"
+	"github.com/fizx/baseplate.go/log"
+	"github.com/fizx/baseplate.go/mqsend"
 )
 
 const testTimeout = time.Millisecond * 100

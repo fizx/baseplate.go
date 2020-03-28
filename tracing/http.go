@@ -7,8 +7,8 @@ import (
 
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/reddit/baseplate.go/httpbp"
-	"github.com/reddit/baseplate.go/thriftbp"
+	"github.com/fizx/baseplate.go/httpbp"
+	"github.com/fizx/baseplate.go/thriftbp"
 )
 
 // StartSpanFromHTTPContext creates a server span from http context object.

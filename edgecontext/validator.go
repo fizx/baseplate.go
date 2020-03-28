@@ -7,7 +7,7 @@ import (
 
 	jwt "gopkg.in/dgrijalva/jwt-go.v3"
 
-	"github.com/reddit/baseplate.go/secrets"
+	"github.com/fizx/baseplate.go/secrets"
 )
 
 type keysType = []*rsa.PublicKey

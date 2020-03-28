@@ -6,7 +6,7 @@ import (
 
 	"github.com/go-kit/kit/endpoint"
 
-	"github.com/reddit/baseplate.go/log"
+	"github.com/fizx/baseplate.go/log"
 )
 
 // InitializeEdgeContext sets an edge request context created using the given

@@ -7,12 +7,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/reddit/baseplate.go/httpbp"
-	"github.com/reddit/baseplate.go/internal/gen-go/reddit/baseplate"
-	"github.com/reddit/baseplate.go/log"
-	"github.com/reddit/baseplate.go/secrets"
-	"github.com/reddit/baseplate.go/thriftbp"
-	"github.com/reddit/baseplate.go/timebp"
+	"github.com/fizx/baseplate.go/httpbp"
+	"github.com/fizx/baseplate.go/internal/gen-go/reddit/baseplate"
+	"github.com/fizx/baseplate.go/log"
+	"github.com/fizx/baseplate.go/secrets"
+	"github.com/fizx/baseplate.go/thriftbp"
+	"github.com/fizx/baseplate.go/timebp"
 
 	"github.com/apache/thrift/lib/go/thrift"
 )

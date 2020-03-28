@@ -1,7 +1,7 @@
 package tracing
 
 import (
-	"github.com/reddit/baseplate.go/timebp"
+	"github.com/fizx/baseplate.go/timebp"
 )
 
 // ZipkinSpan defines a span in zipkin's json format.

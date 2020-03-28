@@ -8,8 +8,8 @@ import (
 	"github.com/apache/thrift/lib/go/thrift"
 	opentracing "github.com/opentracing/opentracing-go"
 
-	"github.com/reddit/baseplate.go/set"
-	"github.com/reddit/baseplate.go/thriftbp"
+	"github.com/fizx/baseplate.go/set"
+	"github.com/fizx/baseplate.go/thriftbp"
 )
 
 // StartSpanFromThriftContext creates a server span from thrift context object.

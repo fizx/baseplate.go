@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/reddit/baseplate.go/metricsbp"
+	"github.com/fizx/baseplate.go/metricsbp"
 
 	"github.com/go-kit/kit/metrics"
 )

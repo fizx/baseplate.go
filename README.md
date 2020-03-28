@@ -21,7 +21,7 @@ They were generated with thrift compiler 0.13.0 and
 [`baseplate.thrift`][baseplate.thrift] using command under `internal/`:
 
 ```
-thrift --gen go:package_prefix=github.com/reddit/baseplate.go/ path/to/baseplate.thrift
+thrift --gen go:package_prefix=github.com/fizx/baseplate.go/ path/to/baseplate.thrift
 ```
 
 They are needed by [`edgecontext`][edgecontext] package.
@@ -60,8 +60,8 @@ bazel test //...:all
 
 [baseplate.thrift]: https://github.com/reddit/baseplate.py/blob/d6c6a03841862d7803bffbfbcaf5d6bf9357589e/baseplate/thrift/baseplate.thrift
 
-[edgecontext]: https://godoc.org/github.com/reddit/baseplate.go/edgecontext
+[edgecontext]: https://godoc.org/github.com/fizx/baseplate.go/edgecontext
 
 [bazel]: https://bazel.build/
 
-[godev]: https://pkg.go.dev/github.com/reddit/baseplate.go
+[godev]: https://pkg.go.dev/github.com/fizx/baseplate.go

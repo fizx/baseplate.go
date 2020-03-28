@@ -9,7 +9,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/reddit/baseplate.go/secrets"
+	"github.com/fizx/baseplate.go/secrets"
 )
 
 // V1 implementation.

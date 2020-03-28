@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	opentracing "github.com/opentracing/opentracing-go"
-	"github.com/reddit/baseplate.go/tracing"
+	"github.com/fizx/baseplate.go/tracing"
 )
 
 // This example demonstrates how to use ErrorReporterCreateServerSpanHook.

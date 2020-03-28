@@ -9,7 +9,7 @@ go_library(
         "testing.go",
         "ttl_client.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/thriftclient",
+    importpath = "github.com/fizx/baseplate.go/thriftclient",
     visibility = ["//visibility:public"],
     deps = [
         "//clientpool:go_default_library",

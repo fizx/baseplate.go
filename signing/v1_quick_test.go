@@ -7,8 +7,8 @@ import (
 	"testing/quick"
 	"time"
 
-	"github.com/reddit/baseplate.go/secrets"
-	"github.com/reddit/baseplate.go/signing"
+	"github.com/fizx/baseplate.go/secrets"
+	"github.com/fizx/baseplate.go/signing"
 )
 
 // A random time.Duration that's between 10 seconds and 1 hour 10 seconds.

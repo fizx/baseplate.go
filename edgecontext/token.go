@@ -1,7 +1,7 @@
 package edgecontext
 
 import (
-	"github.com/reddit/baseplate.go/timebp"
+	"github.com/fizx/baseplate.go/timebp"
 
 	jwt "gopkg.in/dgrijalva/jwt-go.v3"
 )

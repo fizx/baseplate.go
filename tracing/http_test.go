@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/reddit/baseplate.go/httpbp"
+	"github.com/fizx/baseplate.go/httpbp"
 )
 
 func TestStartSpanFromHTTPContext(t *testing.T) {

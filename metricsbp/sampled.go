@@ -1,7 +1,7 @@
 package metricsbp
 
 import (
-	"github.com/reddit/baseplate.go/randbp"
+	"github.com/fizx/baseplate.go/randbp"
 
 	"github.com/go-kit/kit/metrics"
 )

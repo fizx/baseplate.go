@@ -8,7 +8,7 @@
 // you should blank import this package in your main package, e.g.
 //
 //     import (
-//       _ "github.com/reddit/baseplate.go/randbp"
+//       _ "github.com/fizx/baseplate.go/randbp"
 //     )
 package randbp
 

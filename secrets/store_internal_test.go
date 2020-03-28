@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/reddit/baseplate.go/log"
+	"github.com/fizx/baseplate.go/log"
 )
 
 func TestNewStore(t *testing.T) {

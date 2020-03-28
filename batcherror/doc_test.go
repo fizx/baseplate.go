@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/reddit/baseplate.go/batcherror"
+	"github.com/fizx/baseplate.go/batcherror"
 )
 
 func Example() {

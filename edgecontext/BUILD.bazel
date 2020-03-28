@@ -13,7 +13,7 @@ go_library(
         "user.go",
         "validator.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/edgecontext",
+    importpath = "github.com/fizx/baseplate.go/edgecontext",
     visibility = ["//visibility:public"],
     deps = [
         "//httpbp:go_default_library",

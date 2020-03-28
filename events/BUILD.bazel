@@ -6,7 +6,7 @@ go_library(
         "doc.go",
         "events.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/events",
+    importpath = "github.com/fizx/baseplate.go/events",
     visibility = ["//visibility:public"],
     deps = [
         "//mqsend:go_default_library",

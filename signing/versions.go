@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"time"
 
-	"github.com/reddit/baseplate.go/secrets"
+	"github.com/fizx/baseplate.go/secrets"
 )
 
 var latest = V1

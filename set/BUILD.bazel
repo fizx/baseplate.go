@@ -7,7 +7,7 @@ go_library(
         "doc.go",
         "string.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/set",
+    importpath = "github.com/fizx/baseplate.go/set",
     visibility = ["//visibility:public"],
 )
 

@@ -11,7 +11,7 @@ go_library(
         "sys_stats.go",
         "timer.go",
     ],
-    importpath = "github.com/reddit/baseplate.go/metricsbp",
+    importpath = "github.com/fizx/baseplate.go/metricsbp",
     visibility = ["//visibility:public"],
     deps = [
         "//log:go_default_library",

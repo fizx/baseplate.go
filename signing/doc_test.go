@@ -4,9 +4,9 @@ import (
 	"errors"
 	"time"
 
-	"github.com/reddit/baseplate.go/metricsbp"
-	"github.com/reddit/baseplate.go/secrets"
-	"github.com/reddit/baseplate.go/signing"
+	"github.com/fizx/baseplate.go/metricsbp"
+	"github.com/fizx/baseplate.go/secrets"
+	"github.com/fizx/baseplate.go/signing"
 )
 
 func Example() {
