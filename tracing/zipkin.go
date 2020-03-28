@@ -10,7 +10,7 @@ import (
 // It shouldn't be used directly.
 //
 // Reference:
-// https://github.com/reddit/baseplate.py/blob/1ca8488bcd42c8786e6a3db35b2a99517fd07a99/baseplate/observers/tracing.py#L266-L280
+// https://github.com/'.py/blob/1ca8488bcd42c8786e6a3db35b2a99517fd07a99/baseplate/observers/tracing.py#L266-L280
 type ZipkinSpan struct {
 	// Required fields.
 	TraceID  uint64                      `json:"traceId"`

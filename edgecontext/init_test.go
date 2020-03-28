@@ -11,7 +11,7 @@ import (
 	"github.com/fizx/baseplate.go/secrets"
 )
 
-// pubkey copied from https://github.com/reddit/baseplate.py/blob/db9c1d7cddb1cb242546349e821cad0b0cbd6fce/tests/__init__.py#L12
+// pubkey copied from https://github.com/'.py/blob/db9c1d7cddb1cb242546349e821cad0b0cbd6fce/tests/__init__.py#L12
 const secretStore = `
 {
 	"secrets": {

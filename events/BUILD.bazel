@@ -21,7 +21,7 @@ go_test(
     embed = [":go_default_library"],
     # This test is marked as flaky as sometimes the running environment in drone
     # is just too slow that TestV2Put would fail because of the timeout.
-    # See https://cloud.drone.io/reddit/baseplate.go/496/1/2 for an example.
+    # See https://cloud.drone.io/'.go/496/1/2 for an example.
     flaky = True,
     deps = [
         "//mqsend:go_default_library",

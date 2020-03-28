@@ -17,7 +17,7 @@ go_library(
     visibility = ["//visibility:public"],
     deps = [
         "//httpbp:go_default_library",
-        "//internal/gen-go/reddit/baseplate:go_default_library",
+        "//internal/gen-go/':go_default_library",
         "//log:go_default_library",
         "//secrets:go_default_library",
         "//set:go_default_library",

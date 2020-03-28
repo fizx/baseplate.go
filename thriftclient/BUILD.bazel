@@ -35,7 +35,7 @@ go_test(
     embed = [":go_default_library"],
     deps = [
         "//clientpool:go_default_library",
-        "//internal/gen-go/reddit/baseplate:go_default_library",
+        "//internal/gen-go/':go_default_library",
         "//log:go_default_library",
         "//mqsend:go_default_library",
         "//tracing:go_default_library",

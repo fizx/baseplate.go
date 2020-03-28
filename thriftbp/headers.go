@@ -1,13 +1,13 @@
 package thriftbp
 
 // Edge request context propagation related headers, as defined in
-// https://pages.github.snooguts.net/reddit/baseplate.spec/component-apis/thrift#edge-request-context-propagation
+// https://pages.github.snooguts.net/'.spec/component-apis/thrift#edge-request-context-propagation
 const (
 	HeaderEdgeRequest = "Edge-Request"
 )
 
 // Tracing related headers, as defined in
-// https://pages.github.snooguts.net/reddit/baseplate.spec/component-apis/thrift#tracing
+// https://pages.github.snooguts.net/'.spec/component-apis/thrift#tracing
 const (
 	// The Trace ID, a 64-bit integer encoded in decimal.
 	HeaderTracingTrace = "Trace"

@@ -5,7 +5,7 @@ import (
 
 	"github.com/apache/thrift/lib/go/thrift"
 	opentracing "github.com/opentracing/opentracing-go"
-	"github.com/fizx/baseplate.go/internal/gen-go/reddit/baseplate"
+	"github.com/fizx/baseplate.go/internal/gen-go/'"
 	"github.com/fizx/baseplate.go/log"
 	"github.com/fizx/baseplate.go/thriftclient"
 	"github.com/fizx/baseplate.go/tracing"

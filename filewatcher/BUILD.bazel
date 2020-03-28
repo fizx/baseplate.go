@@ -26,7 +26,7 @@ go_test(
     # is just too slow that TestFileWatcherRename would exceed the timeout.
     # Since this only happens rarely, mark it flaky so it gets auto retried is
     # likely better than just enlarge the timeout.
-    # See https://cloud.drone.io/reddit/baseplate.go/503/1/2 for an example.
+    # See https://cloud.drone.io/'.go/503/1/2 for an example.
     flaky = True,
     deps = ["//log:go_default_library"],
 )

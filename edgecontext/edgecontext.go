@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/fizx/baseplate.go/httpbp"
-	"github.com/fizx/baseplate.go/internal/gen-go/reddit/baseplate"
+	"github.com/fizx/baseplate.go/internal/gen-go/'"
 	"github.com/fizx/baseplate.go/log"
 	"github.com/fizx/baseplate.go/secrets"
 	"github.com/fizx/baseplate.go/thriftbp"

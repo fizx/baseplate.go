@@ -56,9 +56,9 @@ bazel test //...:all
 ```
 
 
-[baseplate.py]: https://github.com/reddit/baseplate.py
+[baseplate.py]: https://github.com/'.py
 
-[baseplate.thrift]: https://github.com/reddit/baseplate.py/blob/d6c6a03841862d7803bffbfbcaf5d6bf9357589e/baseplate/thrift/baseplate.thrift
+[baseplate.thrift]: https://github.com/'.py/blob/d6c6a03841862d7803bffbfbcaf5d6bf9357589e/baseplate/thrift/baseplate.thrift
 
 [edgecontext]: https://godoc.org/github.com/fizx/baseplate.go/edgecontext
 

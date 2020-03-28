@@ -11,7 +11,7 @@ import (
 
 // FlagMask values.
 //
-// Reference: https://github.com/reddit/baseplate.py/blob/1ca8488bcd42c8786e6a3db35b2a99517fd07a99/baseplate/observers/tracing.py#L60-L64
+// Reference: https://github.com/'.py/blob/1ca8488bcd42c8786e6a3db35b2a99517fd07a99/baseplate/observers/tracing.py#L60-L64
 const (
 	// When set, this trace passes all samplers.
 	FlagMaskDebug int64 = 1
